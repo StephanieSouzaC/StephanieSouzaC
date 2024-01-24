@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on some Front-End projects;
 - 🔍 "I´m looking for my first experience as developer;
 - 📫 How to reach me: stephaniebioufmg@gmail.com;
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her;
+- ⚡ Fun fact: I was a musician, I love cats and dogs, I fell into the world of technology and I liked it;
 

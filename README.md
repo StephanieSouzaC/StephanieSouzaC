@@ -10,7 +10,7 @@
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieSouzaC&layout=donut&theme=synthwave)](https://github.com/StephanieSouzaC/github-readme-stats)
-<img align="right" width="230" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199521471899377754/Design_sem_nome_2.gif?ex=65c2d86c&is=65b0636c&hm=0e211578ac41905e0ceed884e192519772180c3b56df15e1a2472baefa7beb1a&">
+<img align="right" width="230" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199521471899377754/Design_sem_nome_2.gif?ex=665dc0ac&is=665c6f2c&hm=73b1691056277e6a97752e4be4fe78f7d8ae2ffd0cf8468c5c1cb8784da94d2e&">
 ##
 ### My main skills
 <div style="display: inline_block"><br>

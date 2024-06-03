@@ -1,4 +1,3 @@
-
 ## Hi, my name's Stephanie, I'm currently undergoing a career transition and actively seeking opportunities for role as a front-end developer :)
 
 - 🌱 I’m currently learning JavaScript;

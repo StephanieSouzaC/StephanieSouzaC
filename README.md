@@ -7,10 +7,9 @@
 - 📫 How to reach me: stephaniebioufmg@gmail.com;
 - 😄 Pronouns: she/her;
 - ⚡ Fun fact: I was a musician, I love cats and dogs, I fell into the world of technology and I liked it;
-##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieSouzaC&layout=donut&theme=synthwave)](https://github.com/StephanieSouzaC/github-readme-stats)
-<img align="right" width="230" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199521471899377754/Design_sem_nome_2.gif?ex=665dc0ac&is=665c6f2c&hm=73b1691056277e6a97752e4be4fe78f7d8ae2ffd0cf8468c5c1cb8784da94d2e&">
+<img align="right" width="230" alt="gif" src="https://github.com/StephanieSouzaC/StephanieSouzaC/assets/117867662/189ff80e-6bd9-479c-bb3a-afb11ab6c2d5">
 ##
 ### My main skills
 <div style="display: inline_block"><br>

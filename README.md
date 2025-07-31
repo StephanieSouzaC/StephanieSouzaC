@@ -16,6 +16,12 @@ I'm passionate about learning, adapting to new challenges, collaborating with te
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile_Methodologies-FCA121?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+### 🧩 Experience Highlights
+- **Software Development Intern dti digital** (Aug/2024 – Now)  
+  Working with React, Next.js, TypeScript, and .NET for clients like The Brand Power Company and Supermix. Contributed to accessibility improvements, code enhancements, and RESTful API development.
+- **Frontend Development Volunteer ONGs na Web (Grupo Símios)** (Feb/2024 – Nov/2024)  
+  Created responsive websites using HTML, CSS, and JavaScript to support NGOs’ online presence.
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieSouzaC&layout=donut&theme=tokyonight)](https://github.com/StephanieSouzaC/github-readme-stats)
 
 ##
